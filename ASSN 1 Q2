@@ -1,0 +1,3 @@
+=input("Enter YOUR FIRST NAME:")
+b=input("Enter YOUR SECOND NAME:")
+print('HELLO ,',a,b,'! WELCOME TO THE PYTHON PROGRAM')
